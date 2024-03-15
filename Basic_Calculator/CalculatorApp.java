@@ -1,5 +1,5 @@
 public class CalculatorApp{
-	public static void main(String[] args){
+	public static void main(String [] args){
 		double add;
 
 		Calculator cal = new Calculator();
